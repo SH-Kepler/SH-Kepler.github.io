@@ -25,6 +25,7 @@ p {
     color: #1F2428;
     line-height: 30px;
     font-size: 25px;
+    list-style: none;
 }
 
 .button {
