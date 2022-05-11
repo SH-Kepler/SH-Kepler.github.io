@@ -1,38 +1,63 @@
-h1 {
-    color: #181C1F;
-    font-family: sans-serif;
-    font-size: 70px;
+.indice {
+    color: #778DA9;
+    text-decoration: none;
+    padding: 7px;
+    border: 1px solid black;
 }
 
-.indice {
-    color: #A59E8C;
-    text-decoration: none;
+.header {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #E0E1DD;
+}
+
+.photo {
+    display: inline-block;
+    vertical-align:middle;
+    padding: 20px;
+    background-color: #0D1B2A;
+    margin-left: 2%;
     
 }
 
-h3 {
-    font-size: 45px;
-    color: #1A1F22;
-}
-
-p {
+.sobre {
+    margin-top: 235px;
+    display: inline-block;
     font-size: 20px;
-    color: #1F2428;
-    font-family: 'fantasy', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    color: #E0E1DD;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #0D1B2A;
 }
 
 #skills {
-    color: #1F2428;
-    line-height: 30px;
+    margin-top: 100px;
+    color: #E0E1DD;
+    margin-left: 2%;
     font-size: 25px;
+    text-align: center;
+}
+
+#skills ul li {
+    line-height: 30px;
+    
     list-style: none;
+}
+
+#meet {
+    font-size: 20px;
+    text-align: end;
+    color: #E0E1DD;
 }
 
 .button {
     background-color: #394148;
     color: #C4C4B1;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 50px;
     border: solid 2px #000000;
     padding: 7px 25px 8px 25px;
@@ -40,14 +65,6 @@ p {
     border-radius: 20px;
 }
 
-img {
-    width: 20%;
-    margin: auto;
-    display: block;
-    border-radius: 50px;
-}
-
 body {
-    background-color: #D7CEB2;
-    text-align: center;
+    background-color: #1B263B;
 }

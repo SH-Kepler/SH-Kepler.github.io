@@ -1,0 +1,49 @@
+h1 {
+    color: #181C1F;
+    font-family: sans-serif;
+    font-size: 70px;
+}
+
+.indice {
+    color: #A59E8C;
+    text-decoration: none;
+    
+}
+
+h3 {
+    font-size: 45px;
+    color: #1A1F22;
+}
+
+p {
+    font-size: 20px;
+    color: #1F2428;
+    font-family: 'fantasy', sans-serif;
+}
+
+#skills {
+    color: #1F2428;
+    line-height: 30px;
+    font-size: 25px;
+    list-style: none;
+}
+
+
+.button {
+    background-color: #394148;
+    color: #C4C4B1;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 50px;
+    border: solid 2px #000000;
+    padding: 7px 25px 8px 25px;
+    text-transform: uppercase;
+    border-radius: 20px;
+}
+
+img {
+    width: 20%;
+    margin: auto;
+    display: block;
+    border-radius: 50px;
+}
